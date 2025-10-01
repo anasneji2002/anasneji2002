@@ -56,7 +56,7 @@
 ---
 
 ## 📫 Connect with Me
-- 📧 [nejianas2002@gmail.com](mailto:mohamedanas.neji@gmail.com)  
+- 📧 [mohamedanas.neji@gmail.com](mailto:mohamedanas.neji@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-anas-neji/)  
 
 ---
