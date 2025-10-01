@@ -7,7 +7,7 @@
 ---
 
 ## 🔹 About Me
-- 🌱 Currently working as an **AI / Data Engineering Intern at Medius**, building scalable pipelines and integrating LLMs into real-world solutions.  
+- 🌱 Previously worked as an **AI / Data Engineering Intern at Medius**, building scalable pipelines and integrating LLMs into real-world solutions.  
 - 💼 Previous experience as a **Part-time Software Engineer at Expensya**, working on SaaS features used by 600K+ users.  
 - 📊 Hands-on experience in **ETL pipelines, MLOps workflows, and big data processing**.  
 - 🔍 Always curious about **Generative AI, topic modeling, and machine learning**.  
@@ -42,7 +42,7 @@
 ---
 
 ## 📈 Experience
-- **AI / Data Engineering Intern @ Medius** (2025–Present)  
+- **AI / Data Engineering Intern @ Medius** (2025–2025)  
 - **Software Engineer (Part-time) @ Expensya** (2024–2025)  
 - **BI / Data Engineering Intern @ Discovery Informatique SA** (2023)  
 
